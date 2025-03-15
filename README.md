@@ -1,7 +1,7 @@
-# Exercise-04c-Enemies
-
+# Exercise-04d-Coins
+2D platformer with enemies and coins
 ## Implementation
-
+Collectable coins
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -14,4 +14,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Josephine Dugger
